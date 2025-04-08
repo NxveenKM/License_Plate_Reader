@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+lpr-env/
+
+# Tesseract generated files
+*.box
+*.traineddata
+
+# Logs and outputs
+*.log
+*.csv
+*.json
+*.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Model files
+*.pt
+
+# Ignore YOLOv5 repo if using torch hub
+yolov5/
+
+# Ignore saved frames or output images
+output/
+frames/
