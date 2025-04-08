@@ -2,7 +2,8 @@
 
 A real-time automatic license plate recognition (ALPR) system using [YOLOv5](https://github.com/ultralytics/yolov5) for detection and [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for text recognition. Built with Python and OpenCV, this project captures video from a webcam and identifies vehicle license plates in real-time.
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kwZW1wcHdxZmVzeTFhbzJkbnY4cW04ejFiemtkcTNsbGV2MGRpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RkA4dfGdAEn5JqGWDo/giphy.gif)
+![Alt text](Test_Usage.jpeg)
+
 
 ---
 
